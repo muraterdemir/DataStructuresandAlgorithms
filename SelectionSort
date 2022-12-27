@@ -1,4 +1,4 @@
-[7,3,5,8,2,9,4,15,6] - Selection Sort [patika.dev](https://app.patika.dev/paths)
+# [7,3,5,8,2,9,4,15,6] - Selection Sort [patika.dev](https://app.patika.dev/paths)
 
 Listenin ilk eleman ile listedeki en küçük elemanı bulup karşılaştır. Bu adımları listenin ikinci elemanından başlayarak yinele.
 
@@ -18,4 +18,4 @@ Bu durumda ilk eleman 7, en küçük değerli eleman 2' dir. Bunlar yer değişt
 
 [2,3,4,5,6,7,8,9,15] -  Sıralamadan sonraki ilk eleman 15 ve en küçük değer 9 yer değiştirir.
 
-[2,3,4,5,6,7,8,9,15] - Listenin sıralanmış son hali.
+[2,3,4,5,6,7,8,9,15] -  Listenin sıralanmış son hali.
