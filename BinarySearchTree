@@ -21,3 +21,4 @@ Dokuzuncu rakamımız 4, 7'den (root) küçük. Soldan devam ediyoruz, alt node 
 Son rakamımız 2, 7'den (root) küçük. Soldan devam ediyoruz, alt node 5'ten küçük,sola devam, 1'den büyük, sağa dönüyoruz, 3'ten küçük olduğundan 2 sol alt node olarak yerini alıyor.
 
 Binary Search Tree son hali aşağıdaki gibidir.
+![BinarySearchTree](https://user-images.githubusercontent.com/48916488/209673562-836bc648-d1dc-4e1f-9ce2-5de573a09e8c.jpg)
